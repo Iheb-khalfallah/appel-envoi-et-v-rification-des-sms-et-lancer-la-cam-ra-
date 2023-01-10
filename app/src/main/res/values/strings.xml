@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP3IHEB</string>
+    <string name="sms">SMS</string>
+    <string name="smsN">SMS Normal</string>
+    <string name="smsU">SMS d\'Urgence</string>
+    <string name="appels">Appels</string>
+    <string name="appelN">Appels Normal</string>
+    <string name="appelU">Appels d\'Urgence</string>
+    <string name="camera">Caméra</string>
+    <string name="quit">Quitter</string>
+    <string name="num">5556</string>
+    <string name="msg">Salut iheb, je vous souhait une bonne journée!</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="eniso.gte2.tp3iheb.MainActivity">
+    <item android:title="@string/sms" >
+        <menu>
+            <item android:title="@string/smsN"
+                android:id="@+id/item_smsN"/>
+            <item android:title="@string/smsU"
+                android:id="@+id/item_smsU"/>
+        </menu>
+    </item>
+    <item android:title="@string/appels" >
+        <menu>
+            <item android:title="@string/appelN"
+                android:id="@+id/item_appelN"/>
+            <item android:title="@string/appelU"
+                android:id="@+id/item_appelU"/>
+        </menu>
+    </item>
+    <item android:title="@string/camera"
+        android:id="@+id/item_camera"/>
+    <item android:title="@string/quit"
+        android:id="@+id/item_quit"/>
+</menu>
+
+
